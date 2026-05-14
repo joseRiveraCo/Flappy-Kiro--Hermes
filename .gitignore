@@ -1,0 +1,13 @@
+# Private prompts - do not push
+Promts-Independientes/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
